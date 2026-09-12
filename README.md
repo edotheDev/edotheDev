@@ -65,8 +65,6 @@ a9e7c01 feat: hired another agent
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=edotheDev&theme=dark&hide_border=true&background=111111&ring=F2A33A&fire=F2A33A&currStreakLabel=F2A33A" alt="my github streak" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edotheDev/edotheDev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edotheDev/edotheDev/output/github-snake.svg" />
