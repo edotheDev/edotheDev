@@ -33,7 +33,7 @@ a9e7c01 feat: hired another agent
 - 🎨 **creative director** at an ai content studio. this one is real, which ruins the bit
 - 🧠 **ai engineer**, on the grounds that i talk to claude 14 hours a day
 - 🛩️ **defense analyst**. watched every stealth jet teardown on youtube, now i have opinions about radar cross sections nobody asked for
-- 🔤 **type designer**. drew a whole typeface with claude and named it after a nap
+- 💼 **entrepreneur**. yes i have a startup. no i won't pitch you. unless you ask. please ask
 - ✍️ **writing coach for chatgpt**. it did not take the feedback well
 
 ### side quests
