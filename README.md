@@ -40,7 +40,7 @@ a9e7c01 feat: hired another agent
 
 | repo | what it actually is | aura |
 |---|---|---|
-| [flowvoice](https://github.com/edotheDev/flowvoice) | tap a key, talk, it types wherever your cursor is. free, and it learns your accent | built because whisper kept calling claude "claw" |
+| [flowvoice](https://github.com/edotheDev/flowvoice) | tap a key, talk, it types wherever your cursor is. free, and it learns your accent | temu wispr flow, but free and it gets my accent |
 | [3d-viewer](https://github.com/edotheDev/3d-viewer) | drop in a glb, gltf or fbx and inspect it: pbr, clay, wireframe, uv checker, even write your own glsl shader | blender at home |
 | [pre-chatgpt](https://github.com/edotheDev/pre-chatgpt) | a writing foundation and a linter that stops your text sounding like chatgpt | chatgpt hates this one |
 | [siesta](https://github.com/edotheDev/siesta) | a hairline serif typeface for doing nothing | sleepy font, big serifs |
