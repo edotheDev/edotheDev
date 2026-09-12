@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2A33A&center=true&vCenter=true&width=680&lines=hi+i'm+edo+%F0%9F%91%8B;senior+prompt+engineer+(self+appointed);i+don't+write+code.+i+supervise+it;100%25+of+my+commits+are+co-authored+by+claude;centered+a+div+once.+still+not+over+it" alt="hi i'm edo, senior prompt engineer (self appointed)" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2A33A&center=true&vCenter=true&width=680&lines=hi+i'm+edo+%F0%9F%91%8B;senior+prompt+engineer+(self+appointed);i+don't+write+code.+i+supervise+it;armchair+general.+400%2B+hours+of+jet+videos;100%25+of+my+commits+are+co-authored+by+claude;centered+a+div+once.+still+not+over+it" alt="hi i'm edo, senior prompt engineer (self appointed)" />
 
 **myat htet hlaing on paper. edo everywhere else.**
 
 i run [dots studio](https://dotsstudio.io). the agents do the work, i take the credit.
 
-<img src="https://komarev.com/ghpvc/?username=edotheDev&label=people+who+got+lost+here&color=111111&style=flat-square" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=edotheDev&label=radar+contacts&color=111111&style=flat-square" alt="visitor count" />
 
 </div>
 
@@ -16,6 +16,11 @@ edo. founder, creative director, professional yapper to llms
 
 $ uptime
 up since 2022. running on iced coffee and unfinished side projects
+
+$ history | tail -3
+claude
+claude --continue
+open "why the f-22 can't be exported, full breakdown (2 hours)"
 
 $ git log --oneline -3
 f1x3d42 fix: it works now, don't ask why
@@ -27,7 +32,7 @@ a9e7c01 feat: hired another agent
 
 - 🎨 **creative director** at an ai content studio. this one is real, which ruins the bit
 - 🧠 **ai engineer**, on the grounds that i talk to claude 14 hours a day
-- 🎬 **animation director**. made a painted cartoon about red bull. it has a moral
+- 🛩️ **defense analyst**. watched every stealth jet teardown on youtube, now i have opinions about radar cross sections nobody asked for
 - 🔤 **type designer**. drew a whole typeface with claude and named it after a nap
 - ✍️ **writing coach for chatgpt**. it did not take the feedback well
 
@@ -55,12 +60,15 @@ a9e7c01 feat: hired another agent
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=FFFFFF)
 ![37 open tabs](https://img.shields.io/badge/open_tabs-37-111111?style=for-the-badge)
+![jet videos watched](https://img.shields.io/badge/jet_videos_watched-400%2B-111111?style=for-the-badge)
+![security clearance](https://img.shields.io/badge/security_clearance-none-111111?style=for-the-badge)
 
 ### currently
 
 - 🔭 teaching agents to do my job so i can do the fun part
 - 🌱 learning to say no to "just one more feature"
-- 💬 ask me about prompts, painted cartoons, or why my font is called siesta
+- 🛰️ reading about drones, radars and jets i will never be allowed near
+- 💬 ask me about prompts, stealth jets, or why my font is called siesta
 - ⚡ fun fact: claude wrote this readme too. obviously
 
 <div align="center">
@@ -71,6 +79,6 @@ a9e7c01 feat: hired another agent
   <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/edotheDev/edotheDev/output/github-snake.svg" />
 </picture>
 
-<sub>if you scrolled this far you're legally my friend now. ⭐ a repo, it feeds the ego</sub>
+<sub>if you scrolled this far you're legally my friend now. ⭐ a repo, it fuels the jet</sub>
 
 </div>
