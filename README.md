@@ -40,7 +40,7 @@ a9e7c01 feat: hired another agent
 
 | repo | what it actually is | aura |
 |---|---|---|
-| [ai-animation-workflow-by-dotsstudio](https://github.com/edotheDev/ai-animation-workflow-by-dotsstudio) | the whole pipeline behind our ai cartoon, packaged so your agent can run it | zero slop, allegedly |
+| [3d-viewer](https://github.com/edotheDev/3d-viewer) | drop in a glb, gltf or fbx and inspect it: pbr, clay, wireframe, uv checker, even write your own glsl shader | blender at home |
 | [pre-chatgpt](https://github.com/edotheDev/pre-chatgpt) | a writing foundation and a linter that stops your text sounding like chatgpt | chatgpt hates this one |
 | [siesta](https://github.com/edotheDev/siesta) | a hairline serif typeface for doing nothing | sleepy font, big serifs |
 | [live-face-match](https://github.com/edotheDev/live-face-match) | point a webcam at someone and it tells you if it's the same person. all in the browser | not a surveillance startup, promise |
