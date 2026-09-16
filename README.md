@@ -36,6 +36,14 @@ a9e7c01 feat: hired another agent
 - 💼 **entrepreneur**. yes i have a startup. no i won't pitch you. unless you ask. please ask
 - ✍️ **writing coach for chatgpt**. it did not take the feedback well
 
+### the one that isn't a bit
+
+you asked about the startup. you didn't, but scrolling counts as asking.
+
+i'm building [arckara](https://arckara.com), a burmese ai model small enough to run on a laptop. 43 million people speak burmese and it is 0.0164% of the open web, which is why every chatbot writes it like a tourist with a phrasebook.
+
+📄 **the myanmar ai gap** · [read it](https://arckara.com/research/myanmar-ai-gap) · [doi 10.5281/zenodo.22781767](https://doi.org/10.5281/zenodo.22781767)
+
 ### side quests
 
 | repo | what it actually is | aura |
@@ -67,6 +75,7 @@ a9e7c01 feat: hired another agent
 ### currently
 
 - 🔭 teaching agents to do my job so i can do the fun part
+- 🇲🇲 training a language model on free kaggle gpus, 30 hours a week, like a peasant
 - 🌱 learning to say no to "just one more feature"
 - 🛰️ reading about drones, radars and jets i will never be allowed near
 - 💬 ask me about prompts, stealth jets, or why my font is called siesta
